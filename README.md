@@ -21,8 +21,8 @@ Markdown คือภาษาหนึ่ง ที่คนสร้าง ส
 เราสามารถแสดงความสำคัญกับ รูปแบบตัวอักษร bold, italic หรือ strikethrough ใน comment fields และ .md fields.
 ## 1.	ตัวหนา (Bold)
 ```
-### __This is Bold__
-### **This is Bold**
+__This is Bold__
+**This is Bold**
 ```
 ### ```Output Bold```
 > **This is Bold**
@@ -31,8 +31,8 @@ Markdown คือภาษาหนึ่ง ที่คนสร้าง ส
 
 ## 2.	ตัวเอียง (Italics)
 ```
-### _This is Italics_
-### *This is Italics*
+_This is Italics_
+*This is Italics*
 ```
 ### ```Output Italics```
 > _This is Italics_
@@ -41,8 +41,8 @@ Markdown คือภาษาหนึ่ง ที่คนสร้าง ส
 
 ## 3.	ตัวหนา + ตัวเอียง (Bold + Italics)
 ```
-### ___ This is Bold and Italics ___
-### *** This is Bold and Italics ***
+___ This is Bold and Italics ___
+*** This is Bold and Italics ***
 ```
 ### ```Output Bold and Italics```
 > ___This is Bold and Italics___
