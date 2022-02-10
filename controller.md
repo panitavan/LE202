@@ -1,6 +1,7 @@
 # __A survey of five microcontroller models__ 
 ## 1. RISC-V (Reduced Instruction Set Computer) based ISA (instruction set architecture)
 ### ```Price```: ไม่มีค่าใช้จ่าย เนื่องจากRISC-V ISA อยู่ภายใต้ใบอนุญาตโอเพนซอร์สที่ไม่ต้องเสียค่าธรรมเนียมในการใช้งาน บริษัทจำนวนมากเสนอให้ฮาร์ดแวร์ RISC-V เป็นระบบปฏิบัติการโอเพ่นซอร์สที่รองรับ RISC-V และชุดคำสั่งได้รับการสนับสนุนในชุดเครื่องมือซอฟต์แวร์ยอดนิยมหลายตัว
+https://www.blognone.com/sites/default/files/externals/5b68dc61babd7728eee0b5133c0d97c2.jpg
 
 > แหล่งที่มาของข้อมูลราคา[source](https://riscv.org/about/faq/)
 ### ```Speed```:8.65 GHz
