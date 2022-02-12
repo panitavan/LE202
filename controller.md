@@ -43,11 +43,11 @@ by PIC
 ### ```Memory```: 8 KB
 > reference [source](https://th.rs-online.com/web/p/microcontrollers/4671690) [price](https://micro-research.co.th/mt-mcs51.html)
 
- ## 🌻 5. ESP8266 NodeMCU WIFI V3 CH340
+ ## 🌻 5. ESP8266 NodeMCU WIFI 
  ESP8266 ถูกรวมเข้ากับโปรเซสเซอร์ Tensilica 32-bit อินเทอร์เฟซอุปกรณ์ต่อพ่วงดิจิตอลมาตรฐาน, สวิตช์เสาอากาศ, RF balun, เพาเวอร์แอมป์, แอมพลิฟายเออร์รับสัญญาณรบกวนต่ำ, ฟิลเตอร์และโมดูลการจัดการพลังงาน ทั้งหมดรวมอยู่ในแพ็คเกจเล็กๆ อันเดียว
  
  ![ESP8266](http://www.eak-electronic.com/image/cache/data/Product/Arduino/ESP8266%20Node%20MCU%20CH340-500x500.jpg)
 ### ```Price```: 130 Bath
 ### ```Speed```: 2.4 - 2.5 GHz
-### ```Memory```: 4 M
+### ```Memory```: 4 MB
 > reference [source](https://www.espressif.com/en/products/socs/esp8266) [price](http://www.eak-electronic.com/index.php?route=product/product&product_id=1395)
