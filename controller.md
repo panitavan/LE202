@@ -11,7 +11,7 @@ RISC-V ไม่ใช่ CPU, สิ่งนี้คือสถาปัต�
 ## 🌻 2. RP2040 
 by Raspberry Pi Pico
 
-Raspberry Pi เลข 2 ถัดมาคือจำนวน Core ของ MCU และเลข 0 ในหลักถัดมาคือชนิดของ Arm Core เลข 4 ตัวต่อมาคือจำนวนของ RAM เลขสุดท้ายคือจำนวนของ Flash Memory 
+Raspberry Pi เลข 2 ถัดมาคือจำนวน Dual Core และเลข 0 ในหลักถัดมาคือชนิดของ Arm Cortex M0+ เลข 4 ตัวต่อมาคือจำนวนของ RAM เลขสุดท้ายคือจำนวนของ Flash Memory 
 
 คุณสมบัติที่สำคัญของ RP2040 ที่แตกต่างจากไมโครคอนโทรลเลอร์ตัวอื่น คือ PIO หรือ Programmable Input Output Block
 
@@ -19,6 +19,7 @@ Raspberry Pi เลข 2 ถัดมาคือจำนวน Core ของ 
 ### ```Price```: 4 USD
 ### ```Speed```: 133 MHz
 ### ```Memory```: 16 MB 
+### ```Port```:
 > reference [source](https://www.sparkfun.com/rp2040) [price](https://www.arm.com/blogs/blueprint/raspberry-pi-rp2040)
 
 ## 🌻 3. ATmega1608  
@@ -30,6 +31,7 @@ ATmega1608 คือไมโคคอนโทนเลอร์ประกอ
 ### ```Price```: 50.98 Bath
 ### ```Speed```: 20 MHz
 ### ```Memory```: 16 KB
+### ```Port```:
 > reference [source](https://www.microchip.com/en-us/product/ATMEGA1608#:~:text=ATmega1608%20is%20a%20microcontroller%20featuring,%2D%20and%2032%2Dpin%20packages.) [price](https://www.digikey.co.th/th/products/detail/microchip-technology/ATMEGA1608-AFR/9973116)
 
 
@@ -41,6 +43,7 @@ by PIC
 ### ```Price```: MT-MCS51/S52 (MCU=AT89S52) = 545 Bath
 ### ```Speed```: 33 MHz
 ### ```Memory```: 8 KB
+### ```Port```:
 > reference [source](https://th.rs-online.com/web/p/microcontrollers/4671690) [price](https://micro-research.co.th/mt-mcs51.html)
 
  ## 🌻 5. ESP8266 NodeMCU WIFI 
@@ -50,4 +53,5 @@ by PIC
 ### ```Price```: 130 Bath
 ### ```Speed```: 2.4 - 2.5 GHz
 ### ```Memory```: 4 MB
+### ```Port```:
 > reference [source](https://www.espressif.com/en/products/socs/esp8266) [price](http://www.eak-electronic.com/index.php?route=product/product&product_id=1395)
