@@ -1,5 +1,5 @@
 ## อธิบายการทำงานของการแสดงตัวอักษร **PR** บน OUTPUT (C0000000) ของ RISC-V software simulator 
-***[Example of RISC-V software simulator](https://guillaume-savaton-eseo.github.io/emulsiV/)***
+:leaves: ***[Example of RISC-V software simulator](https://guillaume-savaton-eseo.github.io/emulsiV/)*** :leaves:
 ## ```Loop 1 ```:repeat: 
 
 :one: เมื่อเรากด run คำสั่งที่ 1 เข้ามา คำสั่งจะถูกป้อนเข้ามาทั้งหมด 1 word (4 byte) และจะถูกนำมาเรียงใหม่โดยคำสั่งจะถูกนำมาวางไว้ตรง Bus 
